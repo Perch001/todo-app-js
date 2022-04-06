@@ -1,6 +1,7 @@
 ## It's my first Git Repositories. This is my first job and I did Todo list/.--.
 
-![изображение](https://user-images.githubusercontent.com/51622640/161997389-927d8643-21ed-4944-8910-ad3ecca321d2.png)
+
+![Screenshot(3)](https://user-images.githubusercontent.com/51622640/161997537-14540548-586f-4f3b-9146-d73d3ebbca45.png)
 
 
 ##
