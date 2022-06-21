@@ -1,4 +1,4 @@
-## It's my first Git Repositories. This is my first job and I did Todo list.--.
+## This is my first job and I did Todo list.--.
 
 
 ![Screenshot(3)](https://user-images.githubusercontent.com/51622640/161997537-14540548-586f-4f3b-9146-d73d3ebbca45.png)
